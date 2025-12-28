@@ -35,4 +35,14 @@ The website also includes a fully functional **contact form integrated with Emai
 ---
 
 ## 📂 Project Structure
+portfolio/
+├── index.html
+├── assets/
+│ ├── images/
+│ ├── icons/
+├── css/
+│ └── styles.css
+├── js/
+│ └── script.js
+└── README.md
 
