@@ -4,6 +4,7 @@ A modern, responsive portfolio website built to showcase my **education, technic
 Designed with a clean UI, smooth animations, and full responsiveness across devices.
 
 ---
+---
 
 ## 📌 About
 
